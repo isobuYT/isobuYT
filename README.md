@@ -3,7 +3,7 @@
 ## 😎 About me:
 I use arch btw. I rice my desktop with purple themes.
 
-<img src="assets/anime.gif" width="200" align="right" />
+<img src="assets/anime.gif" width="200" align="centre" />
 
 ## 🖥️ Technologies I use:
 
