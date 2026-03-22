@@ -3,6 +3,8 @@
 ## 😎 About me:
 I use arch btw. I rice my desktop with purple themes.
 
+<img src="assets/anime.gif" width="200" align="right" />
+
 ## 🖥️ Technologies I use:
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
