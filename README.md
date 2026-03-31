@@ -4,7 +4,7 @@
 
 I use NixOS btw. I rice my desktop with dark red themes.
 
-<img src="assets/anime.gif" width="200" align="centre" />
+<img src="assets/anime02.gif" width="200" align="centre" />
 
 ## 🖥️ Technologies I use:
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
